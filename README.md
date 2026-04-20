@@ -1,7 +1,7 @@
 # Hi, I'm Helen - Nguyen Huynh Phuong Uyen 👋🌟
 
 ### **Final Year Information Systems Student | Aspiring IT Business Analyst & Data Analyst**
-🎯Focusing on bridging the gap between technical complexity and business value through data-driven insights and systematic process analysis.
+Focusing on bridging the gap between technical complexity and business value through data-driven insights and systematic process analysis. 🎯
 
 ---
 

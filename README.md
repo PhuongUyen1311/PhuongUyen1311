@@ -1,18 +1,18 @@
-# Hi, I'm Helen - Nguyen Huynh Phuong Uyen 👋
+# Hi, I'm Helen - Nguyen Huynh Phuong Uyen 👋🌟
 
 ### **Final Year Information Systems Student | Aspiring IT Business Analyst & Data Analyst**
-Focusing on bridging the gap between technical complexity and business value through data-driven insights and systematic process analysis.
+🎯Focusing on bridging the gap between technical complexity and business value through data-driven insights and systematic process analysis.
 
 ---
 
-## Professional Focus
+## 🧰 Professional Focus
 * **IT Business Analysis:** Requirement elicitation, process modeling (BPMN), and aligning system architecture with business goals (ERP mindset).
 * **Data Analytics:** Performing Exploratory Data Analysis (EDA) and building interactive visualizations to drive decision-making.
 * **Information Security:** Implementing data protection standards (PII masking) and cryptographic logic within business applications.
 
 ---
 
-## Technical Toolbox
+## 🛠️ Technical Toolbox
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -25,7 +25,7 @@ Focusing on bridging the gap between technical complexity and business value thr
 | **Web & UI** | React, Next.js, PyQt6 (Functional Prototyping) |
 ---
 
-## Highlight Projects
+## 📂 Highlight Projects ✨
 
 ### **Smart POS & Restaurant Management System**
 * **The Problem:** Streamlining the "Order-to-Pay" workflow for high-traffic environments.

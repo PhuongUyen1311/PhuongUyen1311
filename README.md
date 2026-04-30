@@ -49,7 +49,7 @@ Focusing on bridging the gap between technical complexity and business value thr
 ## Let's Connect
 * [**LinkedIn**](https://www.linkedin.com/in/phuong-uyen-nguyen-huynh-3ab666404/)
 * [**Email**](mailto:[EMAIL_ADDRESS])
-* [**Portfolio**](phuonguyen1311.github.io/Portfolio-Helen/)
+* [**Portfolio**](https://www.notion.so/Hey-there-I-am-Helen-b838d209f8b183ceb0fb8153c0983b39?source=copy_link)
 
 ---
 

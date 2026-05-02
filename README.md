@@ -41,7 +41,6 @@ Focusing on bridging the gap between technical complexity and business value thr
 ---
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=phuonguyen1311&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuonguyen1311&layout=compact&theme=radical)
 
 ---
